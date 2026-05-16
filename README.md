@@ -26,7 +26,7 @@ Works with **all source image types** including WebP, AVIF, SVG, PNG, JPEG, GIF,
 
 ### Chrome Web Store
 
-*Coming soon*
+[Install via the Chrome Web Store](https://chromewebstore.google.com/detail/save-as-image-type/haghjpoekjgdaefeinhmohpopblkkchd?authuser=0&hl=en)
 
 ### Manual Install
 
